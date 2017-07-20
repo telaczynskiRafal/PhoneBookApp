@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contactItems>
+<contact>
+	<first_name>Rafal</first_name>
+	<last_name>Telaczynski</last_name>
+	<phone_number>511-325-595</phone_number>
+	<notes>Own number</notes>
+</contact>
+<contact>
+	<first_name>Random</first_name>
+	<last_name>Contact</last_name>
+	<phone_number>333-222-111</phone_number>
+	<notes>Some random contact</notes>
+</contact>
+<contact>
+	<first_name>John</first_name>
+	<last_name>Kerrick</last_name>
+	<phone_number>492-396-672</phone_number>
+	<notes>Boss</notes>
+</contact>
+<contact>
+	<first_name>Lindsay</first_name>
+	<last_name>Thompson</last_name>
+	<phone_number>982-289-664</phone_number>
+	<notes>Sister</notes>
+</contact>
+</contactItems>
